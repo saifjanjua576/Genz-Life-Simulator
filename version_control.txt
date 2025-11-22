@@ -1,0 +1,10 @@
+What Version Control Means to Me
+
+Version control is a method of keeping track of changes made to a
+project over time. For me, it means having a safe and organized way to
+manage updates in my code without losing previous work. With tools like
+Git and GitHub, I can save different versions of my project, make
+improvements step by step, and undo mistakes whenever needed. It also
+makes collaboration easier because multiple people can work on the same
+project without issues. Overall, version control gives me confidence,
+structure, and professionalism in my coding workflow.
